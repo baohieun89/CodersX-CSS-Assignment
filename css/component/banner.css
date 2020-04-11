@@ -1,0 +1,14 @@
+.banner{
+    position: relative;
+    min-height: 460px;
+    width: 100%;
+}
+video{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    overflow: hidden;
+    z-index: 0
+}
