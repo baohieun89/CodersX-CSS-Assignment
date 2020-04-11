@@ -1,0 +1,30 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    text-decoration: none;
+}
+
+.nav-bar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.nav-link{
+    color: #757575;
+
+}
+.nav-start{
+    color: #05a1c7;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0 10px;
+}
+.flex-grow{
+    flex-grow: 1;
+}
+.nav-border-right{
+    border-right: 1px solid #DDD;
+}
