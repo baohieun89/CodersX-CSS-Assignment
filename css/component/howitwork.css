@@ -1,0 +1,29 @@
+.how-it-work{
+  background-color: #0e1620;
+  padding: 50px;
+}
+
+.how-header{
+  color: #FFF;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.how-icon{
+  color: #05a1c7;
+  margin: 0 20px;
+
+}
+.how-content{
+  color: #FFF;
+  justify-content: center;
+}
+.how-content a{
+  color: #05a1c7;
+}
+.display-flex{
+  display: flex;
+  align-items: center;
+}
+.how-row{
+  margin: 30px;
+}
