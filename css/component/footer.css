@@ -1,0 +1,28 @@
+.footer{
+    background-color: #353d47;
+}
+.footer-start{
+    border-bottom: 1px solid #DDD;
+    padding: 20px;
+    margin: 40px 30px;
+}
+.footer-start a{
+    color: #FFF;
+    text-decoration: underline;
+}
+
+.footer h4{
+    color: #FFF;
+}
+
+.footer ul{
+    margin: 5px 20px;
+}
+.footer li{
+    margin: 10px 0;
+    color: #c4beaa;
+}
+
+.footer-menu{
+    display: flex;
+}

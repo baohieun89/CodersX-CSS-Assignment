@@ -1,0 +1,11 @@
+.get-img img{
+  width: 150px
+  height: 250px;
+}
+
+.get-app{
+  padding: 40px;
+}
+.get-app-content{
+  width: 70%;
+}
